@@ -33,6 +33,7 @@ def get_sales_data():
     
     return sales_data
 
+
 def validate_data(values):
     """
     Inside the try, converts all string values into integers.
